@@ -18,6 +18,10 @@ Each log should answer:
 
 ## Logs
 - [2026-03 Week 2](./logs/2026-03-week-2.md)
+- [2026-03 Week 3](./logs/2026-03-week-3.md)
+
+## Templates
+- [Weekly Log Template](./templates/weekly-log-template.md)
 
 ## Why this matters
 This repo is less about polished results and more about visible trajectory.
