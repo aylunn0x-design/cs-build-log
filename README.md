@@ -20,6 +20,7 @@ Each log should answer:
 - [2026-03 Week 2](./logs/2026-03-week-2.md)
 - [2026-03 Week 3](./logs/2026-03-week-3.md)
 - [2026-03 Week 4](./logs/2026-03-week-4.md)
+- [2026-03 Monthly Summary](./logs/2026-03-month-summary.md)
 
 ## Templates
 - [Weekly Log Template](./templates/weekly-log-template.md)
